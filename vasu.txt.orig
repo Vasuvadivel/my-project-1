@@ -4,4 +4,8 @@ this is test
 
 tested by my-branch
 
+<<<<<<< HEAD
+master conflit test
+=======
 conflit test
+>>>>>>> my-branch
